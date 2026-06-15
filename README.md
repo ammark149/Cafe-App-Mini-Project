@@ -4,16 +4,16 @@ A desktop-based café ordering and management application built using Python's n
 
 ## Features
 
-**Interactive Menu UI:** Visual menu featuring hot drinks, pastries, and daily specials.
-**Dynamic Basket System:** Click-to-add items, live tracking of order totals, and basket modification.
-**Receipt Generation:** Displays an itemized checkout receipt showing the final total cost.
-**State Reset:** Clears the current basket to start a fresh order without restarting the application.
+* **Interactive Menu UI:** Visual menu featuring hot drinks, pastries, and daily specials.
+* **Dynamic Basket System:** Click-to-add items, live tracking of order totals, and basket modification.
+* **Receipt Generation:** Displays an itemized checkout receipt showing the final total cost.
+* **State Reset:** Clears the current basket to start a fresh order without restarting the application.
 
 ## Tech Stack & Concepts
 
-**Language:** Python 3
-**Graphics Engine:** Turtle (Standard Library)
-**Core Concepts:** Coordinate-based collision detection (click-to-select), state tracking via dictionaries, and event-driven programming.
+* **Language:** Python 3
+* **Graphics Engine:** Turtle (Standard Library)
+* **Core Concepts:** Coordinate-based collision detection (click-to-select), state tracking via dictionaries, and event-driven programming.
 
 ## Installation & Usage
 
