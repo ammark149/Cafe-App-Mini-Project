@@ -1,0 +1,45 @@
+{
+    "MainMenu": {
+        "title": "MAIN MENU",
+        "1": "Product menu",
+        "2": "Courier menu",
+        "3": "Orders menu",
+        "0": "Exit"
+    },
+    "ProductMenu": { 
+        "title": "PRODUCT MENU",
+        "1": "View all products",
+        "2": "Add new products",
+        "3": "Update products",
+        "4": "Delete products",
+        "5": "View inventory",
+        "6": "Update stock level",
+        "0": "Back to main menu"
+    },
+    "CourierMenu": {
+        "title": "COURIER MENU",
+        "1": "View all couriers",
+        "2": "Add new courier",
+        "3": "Update existing courier",
+        "4": "Delete courier",
+        "0": "Back to main menu"
+    },
+    "OrderManagementMenu": {
+        "title": "ORDER MANAGEMENT",
+        "1": "View Orders",
+        "2": "Create Order",
+        "3": "Update Order Status",
+        "4": "Edit Order",
+        "5": "Delete Order",
+        "0": "Back to main menu"
+
+    },
+    "OrderEditMenu": {
+        "title": "EDIT ORDER",
+        "1": "Name",
+        "2": "Address",
+        "3": "Phone",
+        "4": "Status",
+        "0": "Done editing"
+    }
+}

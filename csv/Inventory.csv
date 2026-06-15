@@ -1,0 +1,51 @@
+id,name,price,sold,total_stock
+1,Espresso,1.16,0,50
+2,Americano,1.12,0,50
+3,Latte,3.15,0,50
+4,Cappuccino,0.97,0,50
+5,Mocha,4.3,0,50
+6,Macchiato,1.54,0,50
+7,Flat White,1.44,0,50
+8,Cortado,1.14,0,50
+9,Iced Coffee,4.57,0,50
+10,Cold Brew,3.41,0,50
+11,Frappe,1.32,0,50
+12,Irish Coffee,4.22,0,50
+13,English Breakfast Tea,4.98,0,50
+14,Earl Grey Tea,4.41,0,50
+15,Green Tea,0.8,0,50
+16,Peppermint Tea,2.72,0,50
+17,Chamomile Tea,2.36,0,50
+18,Matcha Latte,4.88,0,50
+19,Chai Latte,2.59,0,50
+20,Iced Tea,3.54,0,50
+21,Oolong Tea,3.01,0,50
+22,Rooibos Tea,2.22,0,50
+23,Darjeeling,5.96,0,50
+24,Assam Tea,6.15,0,50
+25,Coke,2.17,0,50
+26,Diet Coke,3.62,0,50
+27,Coke Zero,2.96,0,50
+28,Sprite,3.5,0,50
+29,Fanta,0.99,0,50
+30,Lemonade,2.48,0,50
+31,Orange Juice,1.95,0,50
+32,Apple Juice,2.25,0,50
+33,Sparkling Water,6.47,0,50
+34,Still Water,1.29,0,50
+35,Ginger Beer,3.74,0,50
+36,Kombucha,2.87,0,50
+37,Smoothie (Berry),3.82,0,50
+38,Smoothie (Tropical),5.57,0,50
+39,Milkshake (Vanilla),5.83,0,50
+40,Milkshake (Chocolate),3.32,0,50
+41,Milkshake (Strawberry),1.75,0,50
+42,Croissant,1.55,0,50
+43,Pain au Chocolat,5.53,0,50
+44,Almond Croissant,0.89,0,50
+45,Cinnamon Bun,5.2,0,50
+46,Danish Pastry,3.13,0,50
+47,Blueberry Muffin,1.91,0,50
+48,Chocolate Chip Muffin,2.5,0,50
+49,Scone (Plain),3.48,0,50
+50,Scone (Fruit),5.81,0,50
