@@ -19,8 +19,3 @@ A desktop-based café ordering and management application built using Python's n
 
 ### Prerequisites
 Python 3 must be installed on your machine. Turtle is included in the standard library.
-
-### Running the Application
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/cafe-turtle-project.git](https://github.com/your-username/cafe-turtle-project.git)
