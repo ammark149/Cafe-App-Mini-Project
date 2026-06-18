@@ -15,7 +15,6 @@ A desktop-based café ordering and management application built using Python's n
 * **Graphics Engine:** Turtle (Standard Library)
 * **Core Concepts:** Coordinate-based collision detection (click-to-select), state tracking via dictionaries, and event-driven programming.
 
-## Installation & Usage
 
 ### Prerequisites
 Python 3 must be installed on your machine. Turtle is included in the standard library.
