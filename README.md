@@ -1,6 +1,6 @@
 # Cafe-App-Mini-Project
 
-A desktop-based café ordering and management application built using Python's native Turtle Graphics engine. This project demonstrates GUI design, coordinate-based event handling, and state management using standard library tools.
+A desktop-based cafe ordering and management application built using Python's native Turtle Graphics engine. This project demonstrates GUI design, coordinate-based event handling, and state management using standard library tools.
 
 ## Features
 
